@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppPause</string>
+    <string name="service_description">Detects which app you open so AppPause can show a short countdown first. It does not read anything on your screen.</string>
+</resources>
